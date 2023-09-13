@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "nombre": "Buzo Under Armour Rival Terry Novelty Hd",
+    "marca": "Under Armour",
+    "imagen": "../images/prod1.jpg",
+    "precio": 1500
+  },
+  {
+    "id": "2",
+    "nombre": "Buzo Nike Sportswear Jdi",
+    "marca": "Nike",
+    "imagen": "../images/prod2.jpg",
+    "precio": 1700
+  },
+  {
+    "id": "3",
+    "nombre": "Buzo Urbano Lotto Essenciales Cap",
+    "marca": "Lotto",
+    "imagen": "../images/prod3.jpg",
+    "precio": 2000
+  },
+  {
+    "id": "4",
+    "nombre": "Buzo Topper Rtc Oversize Urb II",
+    "marca": "Topper",
+    "imagen": "../images/prod4.jpg",
+    "precio": 4500
+  },
+  {
+    "id": "5",
+    "nombre": "Buzo Running Fila Flint",
+    "marca": "Fila",
+    "imagen": "../images/prod5.jpg",
+    "precio": 1100
+  },
+  {
+    "id": "6",
+    "nombre": "Buzo Puma Power",
+    "marca": "Puma",
+    "imagen": "../images/prod6.jpg",
+    "precio": 1399
+  },
+  {
+    "id": "7",
+    "nombre": "Buzo Urbano Adidas Future Icons",
+    "marca": "Adidas",
+    "imagen": "../images/prod7.jpg",
+    "precio": 980
+  },
+  {
+    "id": "8",
+    "nombre": "Buzo Puma Tech Fl",
+    "marca": "Puma",
+    "imagen": "../images/prod8.jpg",
+    "precio": 1600
+  }
+]
